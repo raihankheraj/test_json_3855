@@ -1,0 +1,3 @@
+version: 1
+datastore:
+  filename: "stats.json"
